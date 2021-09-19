@@ -1,0 +1,23 @@
+   {
+    "name": "Nirdisto Articles",
+    "short_name": "Nirdisto",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-hz0k__8JbXk/YUdtIDnjdJI/AAAAAAAAAKw/ooDkXwrh-B4SfMYzmVy1gOoJpYHELtiOACLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.nirdisto.com"
+}
